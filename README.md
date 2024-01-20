@@ -1,2 +1,2 @@
 # fit-tracker
-Track your fitness activities
+Track your fitness activities.
