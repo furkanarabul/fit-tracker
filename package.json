@@ -13,7 +13,6 @@
 		"@fortawesome/vue-fontawesome": "^3.0.0-5",
 		"@supabase/supabase-js": "^1.24.0",
 		"@tailwindcss/postcss7-compat": "^2.0.2",
-		"@vercel/analytics": "^1.1.2",
 		"autoprefixer": "^9",
 		"babel-preset-es2015": "^6.24.1",
 		"core-js": "^3.6.5",
